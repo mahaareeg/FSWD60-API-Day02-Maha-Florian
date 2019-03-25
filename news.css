@@ -114,6 +114,9 @@ p{
 	color: white;
 }  
 
+main p{
+	color: black;
+}
 
 #container {
 width: 900px;
